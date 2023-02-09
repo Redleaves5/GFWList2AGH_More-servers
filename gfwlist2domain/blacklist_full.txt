@@ -30029,7 +30029,6 @@ rauchmeldershop.ch
 ravm.tv
 raw.fastgit.org
 raw.githack.com
-raw.githubusercontent.com
 rawcdn.githack.com
 rawdirect.com
 rawgit.com
@@ -32713,6 +32712,7 @@ springer.com
 springerlink.com
 springernature.com
 springpadit.com
+springwood.me
 sprinklesapp.com
 sprint.com
 sprint0.net
@@ -44539,6 +44539,7 @@ yoshisnewisland.com
 yottaa.net
 yotubesexo.es
 you-get.org
+you.com
 you2be.wzfou.me
 youassporn.com
 youav.com
