@@ -15220,6 +15220,7 @@ baidurank.aizhan.com
 baidusmartapps.com
 baidusobing.com
 baidustatic.com
+baidusx.com
 baidutab.com
 baidutieba.com
 baidutt.com
@@ -15561,6 +15562,7 @@ banyuetan.org
 banyuetanxcx.com
 banyunjuhe.com
 banzdw.cn
+banzhe.xyz
 banzou.name
 bao-cun.com
 bao-fang.com
@@ -21165,6 +21167,7 @@ chat.qidian.qq.com
 chat.sobot.com
 chat1.jd.com.gslb.qianxun.com
 chataixin59.byf.com
+chatgpter.com
 chatm.com
 chatn8.bjmantis.net
 chatnos.com
@@ -24656,6 +24659,7 @@ com.tv
 com21.com
 com4loves.com
 comac.cc
+comake.online
 comba.xyz
 combo.b.qq.com
 combo.b.qq.com.sched.px.tdnsv6.com
@@ -28172,6 +28176,7 @@ dfdtt.com
 dfe.mic.mob.com
 dfedu.com
 dferlian.cn
+dfghaqea.xyz
 dfh123456.b2b.huangye88.com
 dfham.com
 dfhon.com
@@ -32850,6 +32855,7 @@ epassport.diditaxi.com.cn
 epay.10010.com
 epay.12306.cn
 epay.12306.cn.lxdns.com
+epay.com
 epbiao.com
 epcdiy.org
 epchina.com
@@ -33700,6 +33706,7 @@ faceu.mobi
 faceu.net
 faceui.com
 faceunity.com
+fachcloud.com
 facri.com
 factj.com
 factors.sofire.baidu.com
@@ -34274,6 +34281,7 @@ fei580.com
 feiair.com
 feibaojianshen.com
 feibaokeji.com
+feibing.tech
 feibisi.com
 feibisi.org
 feibit.com
@@ -47930,6 +47938,7 @@ iyishengyuan.com
 iyiyun.com
 iyizhai.com
 iyk0qgr8.sched.sma.tdnsv5.com
+iymark.com
 iyocloud.com
 iyong.com
 iyongpdf.com
@@ -48362,6 +48371,7 @@ jdfw1.com
 jdgslb.com
 jdgslb.net
 jdgwdq.com
+jdh.com
 jdhhmd.com
 jdhonline.com
 jdhyplay.com
@@ -51510,6 +51520,7 @@ kanjia.com
 kanjian.com
 kanjianlishi.com
 kanjianxinli.com
+kanjiazhuli.com
 kanjuqing.com
 kankan365.cc
 kankancity.com
@@ -59173,6 +59184,7 @@ mihuwa.com
 miicp.com
 miidc.com
 miidii.tech
+miidim.com
 miidol.com
 miiee.com
 miinaa.com
@@ -62267,6 +62279,7 @@ nicefilm.com
 niceimg.net
 niceisp.com
 nicekid.com
+nicekodi.xyz
 nicelabel.cc
 nicelinks.site
 niceloo.com
@@ -63255,6 +63268,7 @@ ocpc.xueersi.com
 ocri-genomics.org
 ocrmaker.com
 ocs-cn-north1.heytapcs.com
+ocsjs.com
 ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.apple.com.download.ks-cdn.com
@@ -63520,6 +63534,7 @@ okweb.info
 okwfx.cn
 okwuyou.com
 okxr.com
+okxzz.com
 okz.com
 okz.ltd
 okzhaosheng.com
@@ -65143,6 +65158,7 @@ panyh123456.cn
 panyouwl.com
 panyu.baixing.com
 panyun.com
+panziye.com
 paoao.net
 paochefang.com
 paodoo.com
@@ -68180,6 +68196,7 @@ qaxwzws.com
 qazxsdc.com
 qb-v6.sparta.mig.tencent-cloud.net
 qb5.tw
+qb50.com
 qb5200.co
 qb5200.tw
 qb5x4edlyistb6qd2xzmaoe97c1s2aoo.yundunwaf5.com
@@ -71400,6 +71417,7 @@ redflag-linux.com
 redhat.gallerycdn.azure.cn
 redhome.cc
 redhongan.com
+redhtc.com
 redianduanzi.com
 redianmao.com
 redianyule.com
@@ -76042,6 +76060,7 @@ siglff.com
 sigma-statistics-push.proxima.nie.netease.com
 sigmachip.com
 sigmamed.net
+sigmastarsemi.com
 sigmob.cn
 sigmoblive.com
 sign-in.dmall.com
@@ -92581,6 +92600,7 @@ wzyestar.com
 wzyun.net
 wzz180809.net
 wzz1809.com
+wzznft.com
 wzzw.la
 wzzww.com
 x-bows.com
@@ -104427,6 +104447,7 @@ zhatoufa.com
 zhazhi.com
 zhbit.com
 zhblawyer.com
+zhblog.net
 zhcf001.com
 zhcw.com
 zhdba.com
